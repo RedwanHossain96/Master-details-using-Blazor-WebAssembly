@@ -1,0 +1,12 @@
+J:\1271454\MyExam\Shared\bin\Debug\net6.0\MyExam.Shared.deps.json
+J:\1271454\MyExam\Shared\bin\Debug\net6.0\MyExam.Shared.dll
+J:\1271454\MyExam\Shared\bin\Debug\net6.0\MyExam.Shared.pdb
+J:\1271454\MyExam\Shared\obj\Debug\net6.0\MyExam.Shared.csproj.AssemblyReference.cache
+J:\1271454\MyExam\Shared\obj\Debug\net6.0\MyExam.Shared.GeneratedMSBuildEditorConfig.editorconfig
+J:\1271454\MyExam\Shared\obj\Debug\net6.0\MyExam.Shared.AssemblyInfoInputs.cache
+J:\1271454\MyExam\Shared\obj\Debug\net6.0\MyExam.Shared.AssemblyInfo.cs
+J:\1271454\MyExam\Shared\obj\Debug\net6.0\MyExam.Shared.csproj.CoreCompileInputs.cache
+J:\1271454\MyExam\Shared\obj\Debug\net6.0\MyExam.Shared.dll
+J:\1271454\MyExam\Shared\obj\Debug\net6.0\refint\MyExam.Shared.dll
+J:\1271454\MyExam\Shared\obj\Debug\net6.0\MyExam.Shared.pdb
+J:\1271454\MyExam\Shared\obj\Debug\net6.0\ref\MyExam.Shared.dll
